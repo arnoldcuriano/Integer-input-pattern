@@ -1,0 +1,2 @@
+# Integer input pattern
+ 
